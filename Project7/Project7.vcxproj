@@ -142,6 +142,34 @@
     <ClCompile Include="action.cpp" />
     <ClCompile Include="basket.cpp" />
     <ClCompile Include="books.cpp" />
+    <ClCompile Include="client.cpp" />
+    <ClCompile Include="kidsbooks.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="manager.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="movies.cpp" />
+    <ClCompile Include="musicalbum.cpp" />
+    <ClCompile Include="readingbooks.cpp" />
+    <ClCompile Include="scifi.cpp" />
+    <ClCompile Include="song.cpp" />
+    <ClCompile Include="store.cpp" />
+    <ClCompile Include="thriller.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="action.h" />
+    <ClInclude Include="basket.h" />
+    <ClInclude Include="books.h" />
+    <ClInclude Include="client.h" />
+    <ClInclude Include="kidsbooks.h" />
+    <ClInclude Include="manager.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="movies.h" />
+    <ClInclude Include="musicalbum.h" />
+    <ClInclude Include="readingbooks.h" />
+    <ClInclude Include="scifi.h" />
+    <ClInclude Include="song.h" />
+    <ClInclude Include="store.h" />
+    <ClInclude Include="thriller.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
